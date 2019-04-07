@@ -1,0 +1,4 @@
+const Action = {
+  INCREMENT: 'INCREMENT',
+  DECREMENT: 'DECREMENT'
+};
